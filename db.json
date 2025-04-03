@@ -11,7 +11,8 @@
       "muzzle_velocity": "715 m/s",
       "effective_range": "350 m",
       "magazine_capacity": "30 rounds",
-      "fire_rate": "600 rounds/min"
+      "fire_rate": "600 rounds/min",
+      "img_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/AK_47.JPG"
     },
     {
       "name": "M4A1",
@@ -24,7 +25,8 @@
       "muzzle_velocity": "910 m/s",
       "effective_range": "500 m",
       "magazine_capacity": "30 rounds",
-      "fire_rate": "700-950 rounds/min"
+      "fire_rate": "700-950 rounds/min",
+      "img_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/M4A1-flattop.png"
     },
     {
       "name": "Barrett M82",
@@ -37,7 +39,8 @@
       "muzzle_velocity": "853 m/s",
       "effective_range": "1,800 m",
       "magazine_capacity": "10 rounds",
-      "fire_rate": "60 rounds/min"
+      "fire_rate": "60 rounds/min",
+      "img_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Barrett-M82A1-Independence-Day-2017-IZE-048-white.jpg"
     },
     {
       "name": "Glock 17",
@@ -50,7 +53,8 @@
       "muzzle_velocity": "375 m/s",
       "effective_range": "50 m",
       "magazine_capacity": "17 rounds",
-      "fire_rate": "1,200 rounds/min"
+      "fire_rate": "1,200 rounds/min",
+      "img_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Glock_17_%286825676904%29_%D0%B1%D0%B5%D0%B7_%D1%84%D0%BE%D0%BD%D0%B0.jpg"
     },
     {
       "name": "Springfield Armory M1A SOCOM 16",
@@ -63,7 +67,8 @@
       "muzzle_velocity": "850 m/s",
       "effective_range": "500 m",
       "magazine_capacity": "10 rounds",
-      "fire_rate": "Semi-automatic"
+      "fire_rate": "Semi-automatic",
+      "img_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/SA_M1A_NM.jpg"
     },
     {
       "name": "Heckler & Koch G36",
@@ -76,7 +81,8 @@
       "muzzle_velocity": "920 m/s",
       "effective_range": "300 m",
       "magazine_capacity": "30 rounds",
-      "fire_rate": "750-900 rounds/min"
+      "fire_rate": "750-900 rounds/min",
+      "img_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/800px-G36bw.jpg"
     },
     {
       "name": "Beretta 92FS",
@@ -89,7 +95,8 @@
       "muzzle_velocity": "350 m/s",
       "effective_range": "50 m",
       "magazine_capacity": "15 rounds",
-      "fire_rate": "1,200 rounds/min"
+      "fire_rate": "1,200 rounds/min",
+      "img_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Beretta-92FS.jpg"
     },
     {
       "name": "Mossberg 500",
@@ -102,7 +109,8 @@
       "muzzle_velocity": "400 m/s",
       "effective_range": "40 m",
       "magazine_capacity": "5+1 rounds",
-      "fire_rate": "-"
+      "fire_rate": "-",
+      "img_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Mossberg_500a_1.jpg"
     },
     {
       "name": "Walther P99",
@@ -115,7 +123,8 @@
       "muzzle_velocity": "360 m/s",
       "effective_range": "50 m",
       "magazine_capacity": "15 rounds",
-      "fire_rate": "1,200 rounds/min"
+      "fire_rate": "1,200 rounds/min",
+      "img_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Walther_P99_9x19mm.png"
     },
     {
       "name": "Uzi Pro",
@@ -128,7 +137,8 @@
       "muzzle_velocity": "400 m/s",
       "effective_range": "200 m",
       "magazine_capacity": "25/32 rounds",
-      "fire_rate": "600 rounds/min"
+      "fire_rate": "600 rounds/min",
+      "img_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Uzi_of_the_israeli_armed_forces_noBG.png"
     },
     {
       "name": "Browning Hi-Power",
@@ -141,7 +151,8 @@
       "muzzle_velocity": "360 m/s",
       "effective_range": "50 m",
       "magazine_capacity": "13 rounds",
-      "fire_rate": "1,200 rounds/min"
+      "fire_rate": "1,200 rounds/min",
+      "img_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Browning_Hi_Power_SFS.jpg"
     },
     {
       "name": "Steyr AUG",
@@ -154,7 +165,8 @@
       "muzzle_velocity": "920 m/s",
       "effective_range": "300 m",
       "magazine_capacity": "30 rounds",
-      "fire_rate": "680-850 rounds/min"
+      "fire_rate": "680-850 rounds/min",
+      "img_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Steyr_AUG_5%2C56_mm.JPG"
     },
     {
       "name": "SIG Sauer P320",
@@ -167,7 +179,8 @@
       "muzzle_velocity": "350 m/s",
       "effective_range": "50 m",
       "magazine_capacity": "17 rounds",
-      "fire_rate": "1,200 rounds/min"
+      "fire_rate": "1,200 rounds/min",
+      "img_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/XM17-XM18_Modular_Handgun.jpg"
     }
   ]
 }
