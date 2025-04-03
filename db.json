@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "AK-47",
-      "type": "Assault Rifle",
+      "category": "Assault Rifle",
       "weight": 3.47,
       "length": 870,
       "barrel_length": 415,
@@ -18,7 +18,7 @@
     {
       "id": 2,
       "name": "M4A1",
-      "type": "Assault Rifle",
+      "category": "Assault Rifle",
       "weight": 3.1,
       "length": 840,
       "barrel_length": 370,
@@ -33,7 +33,7 @@
     {
       "id": 3,
       "name": "Barrett M82",
-      "type": "Sniper Rifle",
+      "category": "Sniper Rifle",
       "weight": 12.9,
       "length": 1448,
       "barrel_length": 737,
@@ -48,7 +48,7 @@
     {
       "id": 4,
       "name": "Glock 17",
-      "type": "Pistol",
+      "category": "Pistol",
       "weight": 0.625,
       "length": 186,
       "barrel_length": 114,
@@ -63,7 +63,7 @@
     {
       "id": 5,
       "name": "Springfield Armory M1A SOCOM 16",
-      "type": "Battle Rifle",
+      "category": "Battle Rifle",
       "weight": 3.6,
       "length": 1016,
       "barrel_length": 406,
@@ -78,7 +78,7 @@
     {
       "id": 6,
       "name": "Heckler & Koch G36",
-      "type": "Assault Rifle",
+      "category": "Assault Rifle",
       "weight": 3.6,
       "length": 1000,
       "barrel_length": 480,
@@ -93,7 +93,7 @@
     {
       "id": 7,
       "name": "Beretta 92FS",
-      "type": "Pistol",
+      "category": "Pistol",
       "weight": 0.95,
       "length": 217,
       "barrel_length": 125,
@@ -108,7 +108,7 @@
     {
       "id": 8,
       "name": "Mossberg 500",
-      "type": "Shotgun",
+      "category": "Shotgun",
       "weight": 3.2,
       "length": 1000,
       "barrel_length": 470,
@@ -123,7 +123,7 @@
     {
       "id": 9,
       "name": "Walther P99",
-      "type": "Pistol",
+      "category": "Pistol",
       "weight": 0.9,
       "length": 180,
       "barrel_length": 102,
@@ -138,7 +138,7 @@
     {
       "id": 10,
       "name": "Uzi Pro",
-      "type": "Submachine Gun",
+      "category": "Submachine Gun",
       "weight": 1.5,
       "length": 600,
       "barrel_length": 260,
@@ -153,7 +153,7 @@
     {
       "id": 11,
       "name": "Browning Hi-Power",
-      "type": "Pistol",
+      "category": "Pistol",
       "weight": 1.1,
       "length": 200,
       "barrel_length": 127,
@@ -168,7 +168,7 @@
     {
       "id": 12,
       "name": "Steyr AUG",
-      "type": "Assault Rifle",
+      "category": "Assault Rifle",
       "weight": 3.6,
       "length": 1000,
       "barrel_length": 508,
@@ -183,7 +183,7 @@
     {
       "id": 13,
       "name": "SIG Sauer P320",
-      "type": "Pistol",
+      "category": "Pistol",
       "weight": 0.75,
       "length": 178,
       "barrel_length": 98,
