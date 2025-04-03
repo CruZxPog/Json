@@ -2,7 +2,7 @@
   "guns": [
     {
       "name": "AK-47",
-      "type": "Assault Rifle",
+      "category": "Assault Rifle",
       "weight": "3.47 kg",
       "length": "870 mm",
       "barrel_length": "415 mm",
@@ -16,7 +16,7 @@
     },
     {
       "name": "M4A1",
-      "type": "Assault Rifle",
+      "category": "Assault Rifle",
       "weight": "3.1 kg",
       "length": "840 mm (stock extended)",
       "barrel_length": "370 mm",
@@ -30,7 +30,7 @@
     },
     {
       "name": "Barrett M82",
-      "type": "Sniper Rifle",
+      "category": "Sniper Rifle",
       "weight": "12.9 kg",
       "length": "1,448 mm",
       "barrel_length": "737 mm",
@@ -44,7 +44,7 @@
     },
     {
       "name": "Glock 17",
-      "type": "Pistol",
+      "category": "Pistol",
       "weight": "0.625 kg",
       "length": "186 mm",
       "barrel_length": "114 mm",
@@ -58,7 +58,7 @@
     },
     {
       "name": "Springfield Armory M1A SOCOM 16",
-      "type": "Battle Rifle",
+      "category": "Battle Rifle",
       "weight": "3.6 kg",
       "length": "1,016 mm",
       "barrel_length": "406 mm",
@@ -72,7 +72,7 @@
     },
     {
       "name": "Heckler & Koch G36",
-      "type": "Assault Rifle",
+      "category": "Assault Rifle",
       "weight": "3.6 kg",
       "length": "1,000 mm",
       "barrel_length": "480 mm",
@@ -86,7 +86,7 @@
     },
     {
       "name": "Beretta 92FS",
-      "type": "Pistol",
+      "category": "Pistol",
       "weight": "0.95 kg",
       "length": "217 mm",
       "barrel_length": "125 mm",
@@ -100,7 +100,7 @@
     },
     {
       "name": "Mossberg 500",
-      "type": "Shotgun",
+      "category": "Shotgun",
       "weight": "3.2 kg",
       "length": "1,000 mm",
       "barrel_length": "470 mm",
@@ -114,7 +114,7 @@
     },
     {
       "name": "Walther P99",
-      "type": "Pistol",
+      "category": "Pistol",
       "weight": "0.9 kg",
       "length": "180 mm",
       "barrel_length": "102 mm",
@@ -128,7 +128,7 @@
     },
     {
       "name": "Uzi Pro",
-      "type": "Submachine Gun",
+      "category": "Submachine Gun",
       "weight": "1.5 kg",
       "length": "600 mm (stock extended)",
       "barrel_length": "260 mm",
@@ -142,7 +142,7 @@
     },
     {
       "name": "Browning Hi-Power",
-      "type": "Pistol",
+      "category": "Pistol",
       "weight": "1.1 kg",
       "length": "200 mm",
       "barrel_length": "127 mm",
@@ -156,7 +156,7 @@
     },
     {
       "name": "Steyr AUG",
-      "type": "Assault Rifle",
+      "category": "Assault Rifle",
       "weight": "3.6 kg",
       "length": "1,000 mm",
       "barrel_length": "508 mm",
@@ -170,7 +170,7 @@
     },
     {
       "name": "SIG Sauer P320",
-      "type": "Pistol",
+      "category": "Pistol",
       "weight": "0.75 kg",
       "length": "178 mm",
       "barrel_length": "98 mm",
