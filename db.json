@@ -3,11 +3,11 @@
     {
       "id": 1,
       "name": "AK-47",
-      "category": "Assault Rifle",
+      "category_id": "1",
       "weight": 3.47,
       "length": 870,
       "barrel_length": 415,
-      "cartridge": "7.62×39mm",
+      "cartridge": "7.62x39mm",
       "action": "Gas-operated, rotating bolt",
       "muzzle_velocity": 715 ,
       "effective_range": 350,
@@ -18,11 +18,11 @@
     {
       "id": 2,
       "name": "M4A1",
-      "category": "Assault Rifle",
+      "category_id": "1",
       "weight": 3.1,
       "length": 840,
       "barrel_length": 370,
-      "cartridge": "5.56×45mm NATO",
+      "cartridge": "5.56x45mm NATO",
       "action": "Gas-operated, rotating bolt",
       "muzzle_velocity": 910 ,
       "effective_range": 500,
@@ -33,7 +33,7 @@
     {
       "id": 3,
       "name": "Barrett M82",
-      "category": "Sniper Rifle",
+      "category_id": "2",
       "weight": 12.9,
       "length": 1448,
       "barrel_length": 737,
@@ -48,11 +48,11 @@
     {
       "id": 4,
       "name": "Glock 17",
-      "category": "Pistol",
+      "category_id": "3",
       "weight": 0.625,
       "length": 186,
       "barrel_length": 114,
-      "cartridge": "9×19mm Parabellum",
+      "cartridge": "9x19mm Parabellum",
       "action": "Short recoil, locked breech",
       "muzzle_velocity": 375 ,
       "effective_range": 50,
@@ -63,11 +63,11 @@
     {
       "id": 5,
       "name": "Springfield Armory M1A SOCOM 16",
-      "category": "Battle Rifle",
+      "category_id": "4",
       "weight": 3.6,
       "length": 1016,
       "barrel_length": 406,
-      "cartridge": "7.62×51mm NATO",
+      "cartridge": "7.62x51mm NATO",
       "action": "Gas-operated, rotating bolt",
       "muzzle_velocity": 850 ,
       "effective_range":500,
@@ -78,11 +78,11 @@
     {
       "id": 6,
       "name": "Heckler & Koch G36",
-      "category": "Assault Rifle",
+      "category_id": "1",
       "weight": 3.6,
       "length": 1000,
       "barrel_length": 480,
-      "cartridge": "5.56×45mm NATO",
+      "cartridge": "5.56x45mm NATO",
       "action": "Gas-operated, rotating bolt",
       "muzzle_velocity": 920 ,
       "effective_range": 300,
@@ -93,11 +93,11 @@
     {
       "id": 7,
       "name": "Beretta 92FS",
-      "category": "Pistol",
+      "category_id": "3",
       "weight": 0.95,
       "length": 217,
       "barrel_length": 125,
-      "cartridge": "9×19mm Parabellum",
+      "cartridge": "9x19mm Parabellum",
       "action": "Short recoil, locked breech",
       "muzzle_velocity": 350 ,
       "effective_range": 50,
@@ -108,7 +108,7 @@
     {
       "id": 8,
       "name": "Mossberg 500",
-      "category": "Shotgun",
+      "category_id": "5",
       "weight": 3.2,
       "length": 1000,
       "barrel_length": 470,
@@ -123,11 +123,11 @@
     {
       "id": 9,
       "name": "Walther P99",
-      "category": "Pistol",
+      "category_id": "3",
       "weight": 0.9,
       "length": 180,
       "barrel_length": 102,
-      "cartridge": "9×19mm Parabellum",
+      "cartridge": "9x19mm Parabellum",
       "action": "Double-action/single-action",
       "muzzle_velocity": 360 ,
       "effective_range": 50,
@@ -138,11 +138,11 @@
     {
       "id": 10,
       "name": "Uzi Pro",
-      "category": "Submachine Gun",
+      "category_id": "6",
       "weight": 1.5,
       "length": 600,
       "barrel_length": 260,
-      "cartridge": "9×19mm Parabellum",
+      "cartridge": "9x19mm Parabellum",
       "action": "Blowback-operated",
       "muzzle_velocity": 400 ,
       "effective_range": 200,
@@ -153,11 +153,11 @@
     {
       "id": 11,
       "name": "Browning Hi-Power",
-      "category": "Pistol",
+      "category_id": "3",
       "weight": 1.1,
       "length": 200,
       "barrel_length": 127,
-      "cartridge": "9×19mm Parabellum",
+      "cartridge": "9x19mm Parabellum",
       "action": "Short recoil, locked breech",
       "muzzle_velocity": 360 ,
       "effective_range": 50,
@@ -168,11 +168,11 @@
     {
       "id": 12,
       "name": "Steyr AUG",
-      "category": "Assault Rifle",
+      "category_id": "1",
       "weight": 3.6,
       "length": 1000,
       "barrel_length": 508,
-      "cartridge": "5.56×45mm NATO",
+      "cartridge": "5.56x45mm NATO",
       "action": "Gas-operated, rotating bolt",
       "muzzle_velocity": 920 ,
       "effective_range": 300,
@@ -183,17 +183,43 @@
     {
       "id": 13,
       "name": "SIG Sauer P320",
-      "category": "Pistol",
+      "category_id": "3",
       "weight": 0.75,
       "length": 178,
       "barrel_length": 98,
-      "cartridge": "9×19mm Parabellum",
+      "cartridge": "9x19mm Parabellum",
       "action": "Striker-fired, semi-automatic",
       "muzzle_velocity": 350 ,
       "effective_range": 50,
       "magazine_capacity": 17,
       "fire_rate": "1,200 rounds/min",
       "img_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/XM17-XM18_Modular_Handgun.jpg"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "naam": "Assault Rifle"
+    },
+    {
+      "id": 2,
+      "naam": "Sniper Rifle"
+    },
+    {
+      "id": 3,
+      "naam": "Pistol"
+    },
+    {
+      "id": 4,
+      "naam": "Battle Rifle"
+    },
+    {
+      "id": 5,
+      "naam": "Shotgun"
+    },
+    {
+      "id": 6,
+      "naam": "Submachine Gun"
     }
   ]
 }
